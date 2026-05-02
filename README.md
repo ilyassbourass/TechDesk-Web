@@ -4,11 +4,13 @@ TechDesk is a full-stack IT support and asset management platform built for inte
 
 ## Live Demo
 
-Add your production demo link here once the site is deployed:
+[https://techdesk-three.vercel.app](https://techdesk-three.vercel.app)
 
-```text
-https://your-techdesk-domain.example
-```
+Seeded demo accounts all use the password `password`.
+
+- Admin: `admin@techdesk.local`
+- Technician: `tech1@techdesk.local`
+- Employee: `employee1@techdesk.local`
 
 ## Source Code
 
@@ -38,6 +40,8 @@ This repository does not contain the full application source.
 - Docker deployment scaffolding
 
 ## Screenshots
+
+These screenshots were refreshed from the live web app with Playwright.
 
 ### Admin home
 
